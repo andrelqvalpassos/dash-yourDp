@@ -3669,4 +3669,5 @@ button:disabled,
 img{
   width: 600px;
   height: 400px;
+  /* left: auto; */
 }
