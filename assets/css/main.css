@@ -3665,3 +3665,8 @@ button:disabled,
   margin-top: 0;
   padding-top: 0;
 }
+
+img{
+  width: 600px;
+  height: 400px;
+}
