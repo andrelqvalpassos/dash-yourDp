@@ -47,7 +47,17 @@ button {
     width: 100%;
 }
 
-
+.login-container {
+    background-color: white;
+    padding: 7%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    /* horizontal align */
+    width: 40vw;
+    margin-left: 30vw;
+    /* vertical align */
+    height: 83vh;
+    margin-top: 9vh;
+}
 
 #submit,
 #create-acct-btn {
